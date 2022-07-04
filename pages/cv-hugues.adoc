@@ -1,0 +1,50 @@
+:imagesdir: ./../assets/images
+=== Hugues HIVERT
+
+France, Chaville 92,  https://fr.linkedin.com/in/hugues-hivert-aa903a89[Linked image:LinkedIn_icon.svg[16,16]]
+
+'''
+==== EXPERIENCES
+[horizontal]
+2010 - actuel. image:Credit-Agricole-Assurances_logo.jpg[50,70] :: **Architecte Applicatif - PACIFICA Credit-Agricole ** +
+Défini les architectures Web pour les applications d’assurance IARD, accessibles aux clients et aux collaborateurs du groupe Crédit-Agricole.
+Assure la cohérence du SI, en prenant en compte les évolutions technologiques et les normes du groupe. Propose, argumente le choix de solutions et participe à la mise en œuvre avec l’hébergeur du groupe. Participe aux phases de développements Web et aux implémentations sensibles en Java.  +
+
+* 2019 : Intégration du progiciel Prima Policy au sein du SI Pacifica, pour accompagner le lancement des Caisses régionales sur le marché des entreprises. +
+* 2015 : Refonte des écrans Web pour les conseillers en agence bancaire, architecture basée sur une application web riche et des services REST. +
+* 2012 : Construction d’un site internet, optimisé pour les moteurs de recherche (S.E.O), avec publication de contenus, basé sur un CMS Open Source Java Hippo.
+
++
+
+----
+http, Java, Maven, git, bash, IntelliJ, container, docker-compose, tomcat, JWT, OpenID Connect, keycloak, Framework Spring, Spring-Boot, flywayDB, Oracle Database, DB2-LUW
+----
+
+
+2008 - 2010 image:Ippon_logo.jpg[50,60] :: **Consultant - Ippon Technologies** +
+* Lead développeur Pacifica : Support aux développeurs d’un centre de service : web Java, assistance sur les outils de développements : IDE, gestionnaire de sources, processus de build CI / CD.
+
++
+----
+http, Java, Maven, JSP, html, SOAP, SVN, Websphere, Eclipse, IBM MQ
+----
+
+2005 - 2008 image:CGI_logo.svg[10,40] :: **Consultant - CGI France ** +
+
+* Développeur Java **Cofinoga** :  Evolutions progiciel surendettement,
+* Développeur Java **NEXANS**  : Réécriture application trading métaux.
+
++
+----
+HTML, Java, Framework MVC, JSP, SVN, ANT, Tomcat, Eclipse
+----
+
+'''
+==== ETUDES
+[horizontal]
+1999–2005:: **IMA** | Institut de Mathématiques Appliquées - UCO Angers
+
+==== LANGUES
+[horizontal]
+Anglais :: Technique
+
