@@ -8,7 +8,7 @@ France, Chaville 92,  https://fr.linkedin.com/in/hugues-hivert-aa903a89[Linked i
 [horizontal]
 2010 - actuel. image:Credit-Agricole-Assurances_logo.jpg[50,70] :: **Architecte Applicatif - PACIFICA Credit-Agricole ** +
 Défini les architectures Web pour les applications d’assurance IARD, accessibles aux clients et aux collaborateurs du groupe Crédit-Agricole.
-Assure la cohérence du SI, en prenant en compte les évolutions technologiques et les normes du groupe. Propose, argumente le choix de solutions et participe à la mise en œuvre avec l’hébergeur du groupe. Participe aux phases de développements Web et aux implémentations sensibles en Java.  +
+Assure la cohérence du SI, en prenant en compte les évolutions technologiques et les normes du groupe. Propose, argumente le choix de solutions et participe à la mise en œuvre avec l’hébergeur du groupe. Participe aux phases de développement Web et aux implémentations sensibles en Java.  +
 
 * 2019 : Intégration du progiciel Prima Policy au sein du SI Pacifica, pour accompagner le lancement des Caisses régionales sur le marché des entreprises. +
 * 2015 : Refonte des écrans Web pour les conseillers en agence bancaire, architecture basée sur une application web riche et des services REST. +
@@ -22,7 +22,7 @@ http, Java, Maven, git, bash, IntelliJ, container, docker-compose, tomcat, JWT, 
 
 
 2008 - 2010 image:Ippon_logo.jpg[50,60] :: **Consultant - Ippon Technologies** +
-* Lead développeur Pacifica : Support aux développeurs d’un centre de service : web Java, assistance sur les outils de développements : IDE, gestionnaire de sources, processus de build CI / CD.
+* Lead développeur Pacifica : Support aux développeurs d’un centre de service : web Java, assistance sur les outils de développement : IDE, gestionnaire de sources, processus de build CI / CD.
 
 +
 ----
