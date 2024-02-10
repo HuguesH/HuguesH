@@ -6,7 +6,21 @@ France, Chaville 92,  https://fr.linkedin.com/in/hugues-hivert-aa903a89[Linked i
 '''
 ==== EXPERIENCES
 [horizontal]
-2010 - actuel. image:Credit-Agricole-Assurances_logo.jpg[50,70] :: **Architecte Applicatif - PACIFICA Credit-Agricole ** +
+
+2023 - actuel. image:Credit-Agricole-Assurances_logo.jpg[50,70] :: **Tribe Lead Architecte - Credit-Agricole Assurances ** +
+Animation d'une équipe d'architectes expérimentés, organisation de l'accompagnement des projets majeurs de CAA. (Partenariats, ...)
+Recrutement et aide à la création de nouvelles équipes d'architectes applicatifs pour orienter l'activitée vers de l'architecture d'entreprise.
+
+* 2023 : Formation Management
+
++
+
+----
+JIRA, Power Point, ASCIIDOC, PlantUML, draw.io
+----
+
+
+2010 - 2022. image:pacifica-ca-logo.jpg[50,70] :: **Architecte Applicatif - PACIFICA Credit-Agricole ** +
 Défini les architectures Web pour les applications d’assurance IARD, accessibles aux clients et aux collaborateurs du groupe Crédit-Agricole.
 Assure la cohérence du SI, en prenant en compte les évolutions technologiques et les normes du groupe. Propose, argumente le choix de solutions et participe à la mise en œuvre avec l’hébergeur du groupe. Participe aux phases de développement Web et aux implémentations sensibles en Java.  +
 
